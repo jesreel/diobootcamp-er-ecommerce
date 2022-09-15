@@ -1,7 +1,9 @@
 # Projeto ER E-commerce
 Projeto Modelagem ER E-commerce, Bootcamp Database Experience DIO
+<br><br><br>
 
-# Requisitos Iniciais
+
+> # Requisitos Iniciais
 
 ## Cliente
 * Cliente pode se cadastrar com CPF ou CNPJ 
@@ -16,16 +18,18 @@ Projeto Modelagem ER E-commerce, Bootcamp Database Experience DIO
 * Os pedidos são criados pelos clientes, e possuem informações de compras, endereço e status da entrega
 * Um ou mais produtos podem compor o pedido
 * O pedido pode ser cancelado
+<br><br><br>
 
 
-
-# Refinamento 
+> # Refinamento 
 
 * Cliente PJ e PF: Uma conta pode ser PJ ou PF, mas, não pode ter as duas informações
 * Pagamento: Pode ter cadastrado mais de uma forma de pagamento
 * Entrega: Possui status e código de rastreio
+<br><br><br>
 
 
+ ![Projeto ER E-commerce DIO](projeto-ecommerce.png)
 
 
 
